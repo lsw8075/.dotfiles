@@ -1,0 +1,11 @@
+[user]
+	name = Seungwoo Lee
+	email = lsw8075@gmail.com
+[core]
+	editor = vim
+[merge]
+	tool = vimdiff
+[color]
+	ui = true
+[credential]
+	helper = cache
